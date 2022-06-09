@@ -1,0 +1,26 @@
+nav.menu {
+    background-color: rgb(144, 12, 39);
+    text-align: right;
+    display: flex;
+    justify-content: center;
+    padding-left: 25%;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(246, 198, 103);
+    padding: 10px;
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.menu a:hover {
+    color: rgb(237, 165, 14);
+}
+
+#login{
+    text-align: right;
+    padding-left: 40%;
+    font-size: 20px;
+}
